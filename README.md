@@ -5,7 +5,7 @@
  <p>
   Olá! meu nome é Igor Flores e sou desenvolvedor Full Stack. 
   <br><br>
-  Tenho 27 anos e sou bacharel em Sistemas de Informação desde 2020.
+  Tenho 27 anos e sou Bacharel em Sistemas de Informação desde 2020.
   <br><br>
   Você pode me encontrar nas redes sociais:
   <br><br>
