@@ -1,32 +1,49 @@
-### Olá! Eu sou o Igor Flores 🖖
-<br />
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-flores-794402136/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor.flowers/)
-[![Instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/igor.flores.927)
+ <h1 align="center"> Bem vindo ! ✌️</h1>
 
-<br/>
-<br/>
+ <h2>Sobre Mim 🙋</h2>
+ <p>
+  Olá! meu nome é Igor Flores e sou desenvolvedor Full Stack. 
+  <br><br>
+  Tenho 27 anos e sou bacharel em Sistemas de Informação desde 2020.
+  <br><br>
+  Você pode me encontrar nas redes sociais:
+  <br><br>
+  <a target="_blank" href="https://www.linkedin.com/in/igor-flores-794402136/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://instagram.com/igor.flowers">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <br><br>
+  E também no meu site:
+  <a target="_blank" href="https://igorfloresdev.vercel.app">igorfloresdev.vercel.app </a>
+ </p>
+<br>
+ <h2>💻 Tecnologias que uso </h2>
+ <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
+  <p>
+  <br>
+  <h2>💡 Projetos em desenvolvimento </h2>
+  <br>
+  
+  * Pandora: <a href="https://github.com/igorfloresdev/pandora-web">igorfloresdev/pandora-web </a>
+ 
+<br>
+<br>
+<br>
+<h3 align="center">Keep coding !! ✨</h3> 
 
-### Confira meu site em: https://igorfloresdev.github.io
-
-## Tecnologias que eu uso 💻
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</div>
-<br/>
-
-### Keep coding !! ✨
-
-<div style="display:block"><br/>
+<p align="center"><br/>
     <img align="center" alt="cat coding" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
-</div>
+</p>
 
 
