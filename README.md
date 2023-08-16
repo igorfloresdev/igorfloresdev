@@ -1,26 +1,53 @@
+[![Igor Flores GitHub Banner](./images/banner.png)](https://igorfloresdev.vercel.app)
+[![Visits Badge](https://badges.pufler.dev/visits/igorfloresdev/igorfloresdev)](https://igorfloresdev.vercel.app)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/igorfloresdev/)
 
- <h1 align="center"> Bem vindo ! ✌️</h1>
+Hi there! 👋🏻
 
- <h2>Sobre Mim 🙋</h2>
- <p>
-  Olá! meu nome é Igor Flores e sou desenvolvedor Full Stack. 
-  <br><br>
-  Tenho 27 anos e sou Bacharel em Sistemas de Informação desde 2020.
-  <br><br>
-  Você pode me encontrar nas redes sociais:
-  <br><br>
-  <a target="_blank" href="https://www.linkedin.com/in/igor-flores-794402136/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://instagram.com/igor.flowers">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <br><br>
-  E também no meu site:
-  <a target="_blank" href="https://igorfloresdev.vercel.app">igorfloresdev.vercel.app </a>
- </p>
+I'm Igor Flores, a Full Stack developer, specialized in front-end and back-end development. With some tecnologies like React and Node.js, i can create since a simple application to a more complex one.
+
+Want to know more about me? [Check out my portfolio.](https://igorfloresdev.vercel.app)
+
+## 📌 Pinned Repositories
+  
 <br>
- <h2>💻 Tecnologias que uso </h2>
+
+<a href="https://github.com/igorfloresdev/pandora-web">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=pandora-web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+</a>
+
+<a href="https://github.com/igorfloresdev/mybox">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=mybox&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+</a>
+
+<a href="https://github.com/igorfloresdev/cute-portfolio">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=cute-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+</a>
+
+<a href="https://github.com/igorfloresdev/bikcraft">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=bikcraft&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+</a>
+
+<a href="https://github.com/igorfloresdev/lobo">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=lobo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+</a>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/igorfloresdev">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfloresdev&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+</a>
+
+<a href="https://github.com/igorfloresdev">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=igorfloresdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=11100E" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
+ <h2>💻 Skills </h2>
  <br>
   <p align="center">
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -32,18 +59,6 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
   <p>
   <br>
-  <h2>💡 Projetos em desenvolvimento </h2>
-  <br>
-  
-  * Pandora: <a href="https://github.com/igorfloresdev/pandora-web">igorfloresdev/pandora-web </a>
- 
-<br>
-<br>
-<br>
-<h3 align="center">Keep coding !! ✨</h3> 
 
-<p align="center"><br/>
-    <img align="center" alt="cat coding" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
-</p>
 
 
