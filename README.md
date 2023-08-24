@@ -13,23 +13,23 @@ Want to know more about me? [Check out my portfolio.](https://igorfloresdev.verc
 <br>
 
 <a href="https://github.com/igorfloresdev/pandora-web">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=pandora-web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+  <img align="center" style="margin:0.5rem" src="https://readme-stats.jonas-bernard.dev/api/pin/?username=igorfloresdev&repo=pandora-web&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
 </a>
 
 <a href="https://github.com/igorfloresdev/mybox">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=mybox&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+  <img align="center" style="margin:0.5rem" src="https://readme-stats.jonas-bernard.dev/api/pin/?username=igorfloresdev&repo=mybox&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
 </a>
 
 <a href="https://github.com/igorfloresdev/cute-portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=cute-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+  <img align="center" style="margin:0.5rem" src="https://readme-stats.jonas-bernard.dev/api/pin/?username=igorfloresdev&repo=cute-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
 </a>
 
 <a href="https://github.com/igorfloresdev/bikcraft">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=bikcraft&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+  <img align="center" style="margin:0.5rem" src="https://readme-stats.jonas-bernard.dev/api/pin/?username=igorfloresdev&repo=bikcraft&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
 </a>
 
 <a href="https://github.com/igorfloresdev/lobo">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=igorfloresdev&repo=lobo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+  <img align="center" style="margin:0.5rem" src="https://readme-stats.jonas-bernard.dev/api/pin/?username=igorfloresdev&repo=lobo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
@@ -37,11 +37,11 @@ Want to know more about me? [Check out my portfolio.](https://igorfloresdev.verc
 <br>
 
 <a href="https://github.com/igorfloresdev">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfloresdev&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
+  <img align="center" style="margin:0.5rem" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=igorfloresdev&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=11100E" />
 </a>
 
 <a href="https://github.com/igorfloresdev">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=igorfloresdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=11100E" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://readme-stats.jonas-bernard.dev/api?username=igorfloresdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=11100E" alt="Martin's GitHub Stats" />
 </a>
 
 <br>
