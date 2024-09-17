@@ -4,7 +4,7 @@
 
 Hi there! 👋🏻
 
-I'm Igor Flores, a Full Stack developer, specialized in front-end and back-end development. With some tecnologies like React and Node.js, i can create since a simple application to a more complex one.
+I'm Igor Flores, a FullStack developer, specialized in front-end and back-end development. With some tecnologies like React and Node.js, i can create since a simple application to a more complex one.
 
 Want to know more about me? [Check out my portfolio.](https://igorfloresdev.vercel.app)
 
