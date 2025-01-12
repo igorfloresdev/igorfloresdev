@@ -47,9 +47,16 @@ Want to know more about me? [Check out my portfolio.](https://igorfloresdev.verc
 <br>
 <br>
 
+ <h2>📖 Learning </h2>
+ <br>
+  <p>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <p>
+  <br>
  <h2>💻 Skills </h2>
  <br>
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
